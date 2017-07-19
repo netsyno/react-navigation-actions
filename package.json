@@ -1,0 +1,27 @@
+{
+  "name": "react-navigation-actions",
+  "version": "1.0.0",
+  "description": "Common navigation actions for direct use react-navigation",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:netsyno/react-navigation-actions.git"
+  },
+  "author": "Josef Roth <jr@netsyno.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/netsyno/react-navigation-actions/issues"
+  },
+  "homepage": "https://github.com/netsyno/react-navigation-actions",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-config-prettier": "^2.3.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-prettier": "^2.1.2",
+    "react-navigation": "^1.0.0-beta.11"
+  },
+  "peerDependencies": {
+    "react-navigation": "^1.0.0-beta.11"
+  }
+}
